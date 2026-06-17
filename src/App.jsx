@@ -10,15 +10,15 @@ import Navbar from './Components/Layouts/Navbar'
 import { Routes, Route } from 'react-router-dom'
 import SignIn from './Components/Pages/SignIn'
 import GenrePage from './Components/Pages/GenrePage' 
-import MovieDetailPage from './Components/Pages/MovieDetailPage' 
+import MovieDetailPage from './Components/Pages/MovieDetailpage' 
 import Subscription from './Components/Pages/Subscription'
 import TrendingMovies from './Components/Pages/TrendingMovies'
 import Player from './Components/Pages/Player'
 import About from './Components/Pages/About'
 import ContactPage from './Components/Pages/ContactPage'
 import TermsPage from './Components/Pages/TermsPage'
-import HelpCenterPage from './Components/Pages/HeplCentrePage'
-import PrivacyPolicyPage from './Components/Pages/Privacypolicypage'
+import HelpCenterPage from './Components/Pages/HeplCenterPage'
+import PrivacyPolicyPage from './Components/Pages/PrivacypolicyPage'
 
 const Home = () => (
   <div className='bg-slate-900 min-h-screen w-full'>
