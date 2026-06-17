@@ -1,3 +1,4 @@
+{/*
 import React, { useEffect, useState } from 'react'
 import axios from 'axios'
 import { useParams } from 'react-router-dom'
@@ -42,4 +43,4 @@ const GenreMovies = () => {
   )
 }
 
-export default GenreMovies
+export default GenreMovies*/}
