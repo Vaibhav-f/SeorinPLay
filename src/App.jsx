@@ -18,7 +18,7 @@ import About from './Components/Pages/About'
 import ContactPage from './Components/Pages/ContactPage'
 import TermsPage from './Components/Pages/TermsPage'
 import HelpCenterPage from './Components/Pages/HeplCenterPage'
-import PrivacyPolicyPage from './Components/Pages/PrivacypolicyPage'
+import PrivacyPolicyPage from './Components/Pages/PrivacyPolicyPage'
 
 const Home = () => (
   <div className='bg-slate-900 min-h-screen w-full'>
