@@ -5,7 +5,7 @@ import { ArrowLeft, Play, Star, Clock, Calendar, X } from 'lucide-react'
 
 const apiKey = import.meta.env.VITE_TMDB_TOKEN
 
-const MovieDetailPage = () => {
+const Moviedetailpage = () => {
   const { id } = useParams()
   const navigate = useNavigate()
 
@@ -214,4 +214,4 @@ const MovieDetailPage = () => {
   )
 }
 
-export default MovieDetailPage
+export default Moviedetailpage
