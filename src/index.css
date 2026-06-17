@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.slick-slide > div {
+  border-radius: 1rem;
+  overflow: hidden;
+}
+
+.slick-list {
+  border-radius: 1rem;
+}
