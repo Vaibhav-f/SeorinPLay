@@ -53,10 +53,9 @@ Add screenshot here
 
 ## 🚀 Live Demo
 
-**Website:** playseorin-a89t6sw70-vaibhav-s-project.vercel.app
+**Website:**
 
-> Replace the above URL with your deployed Vercel link.
-playseorin-a89t6sw70-vaibhav-s-project.vercel.app
+>playseorin-a89t6sw70-vaibhav-s-project.vercel.app
 
 ---
 
