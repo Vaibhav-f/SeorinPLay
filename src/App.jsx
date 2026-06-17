@@ -13,7 +13,6 @@ import GenrePage from './Components/pages/GenrePage'
 import MovieDetailPage from './Components/pages/MovieDetailPage' 
 import Subscription from './Components/Pages/Subscription'
 import TrendingMovies from './Components/pages/TrendingMovies'
-import GenreMovies from './Components/pages/GenreMovies'
 import Player from './Components/pages/Player'
 import About from './Components/Pages/About'
 import ContactPage from './Components/Pages/ContactPage'
@@ -44,7 +43,7 @@ const App = () => {
         <Route path="/subscription" element={<Subscription />} />
         <Route path="/trending" element={<TrendingMovies />}/>
       
-  <Route path="/discover" element={<GenreMovies />}/>
+ 
   <Route path='/play/:id' element={<Player />} />
 <Route path='/about' element={<About/>} />
 <Route path='/contact'element={<ContactPage/>}/>
