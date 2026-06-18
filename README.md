@@ -90,13 +90,6 @@ It exists to demonstrate practical, real-world frontend skills — component arc
 | **Linting** | ESLint 10 |
 | **Deployment** | Vercel |
 
-## 📸 Screenshots
-
-| Home | Movie Details | Player |
-|---|---|---|
-| ![Home](./screenshots/home.png) | ![Details](./screenshots/details.png) | ![Player](./screenshots/player.png) |
-
-> Add a `/screenshots` folder with these filenames (or update the paths above) to make this section live.
 
 ## 📂 Project Structure
 
@@ -194,7 +187,7 @@ The app will be live at `http://localhost:5173` 🎉
 |---|---|---|
 | `VITE_TMDB_TOKEN` | ✅ | TMDB API key used by every data-fetching component |
 
-> ⚠️ Keep your real `.env` out of version control — add it to `.gitignore` before pushing.
+
 
 ## 📜 Available Scripts
 
